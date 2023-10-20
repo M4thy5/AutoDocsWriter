@@ -9,7 +9,7 @@ O AutoDocsWriter é um script Python que automatiza a escrita de documentos. Ele
 - Permite definir a quantidade de documentos a serem preenchidos.
 
 ## Requisitos
-- Python 3.x
+- Python 3.8+
 - Biblioteca `pyautogui`
 
 ## Uso
