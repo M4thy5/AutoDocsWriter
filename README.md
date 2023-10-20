@@ -56,4 +56,4 @@ while True:
 Este script foi criado apenas para fins educacionais e de demonstração. A automação de tarefas pode ter aplicações legítimas, mas também pode ser usada de maneira indevida. Certifique-se de usá-lo de acordo com as leis e regulamentos aplicáveis e com a devida permissão, se necessário.
 
 ## Autor
-[Matheus.ptes](https://github.com/M4thy5)
+[Mathxz.ptes](https://github.com/M4thy5)
